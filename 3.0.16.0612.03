@@ -1,5 +1,5 @@
 {
-  "status": true,
+  "status": false,
   "new_version": "3.0.16.0612.03",
   "dialog_data": {
     "title": "Update Available",
